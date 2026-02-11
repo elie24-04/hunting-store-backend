@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "app.jwt.secret",
+    "type": "java.lang.String",
+    "description": "Secret key used to sign issued JWT tokens."
+  },
+  {
+    "name": "app.jwt.expiration-ms",
+    "type": "java.lang.Long",
+    "description": "JWT expiration window expressed in milliseconds."
+  },
+  {
+    "name": "app.cors.allowed-origins",
+    "type": "java.lang.String",
+    "description": "Comma-separated list of origins that are allowed to call the API."
+  },
+  {
+    "name": "allowed.origins",
+    "type": "java.lang.String[]",
+    "description": "Legacy configuration for repository CORS that lists allowed origins."
+  },
+  {
+    "name": "stripe.key.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'stripe.key.secret'"
+  }
+]}

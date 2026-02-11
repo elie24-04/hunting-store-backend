@@ -1,0 +1,8 @@
+﻿{
+  "name": "Test User",
+  "email": "test@example.com",
+  "phone": "123",
+  "subject": "Need info",
+  "message": "Hello message",
+  "type": "OTHER"
+}
