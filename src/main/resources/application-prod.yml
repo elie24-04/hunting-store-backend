@@ -16,7 +16,7 @@ server:
 
 app:
   cors:
-    allowed-origins: "*"
+    allowed-origins: https://elie-hunting-app.netlify.app
   jwt:
     secret: ${JWT_SECRET}
 
